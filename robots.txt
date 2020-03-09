@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahpheiyius.evansand.co/sitemap.xml
